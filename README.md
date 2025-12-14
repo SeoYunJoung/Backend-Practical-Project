@@ -1,5 +1,7 @@
 # Backend-Practical-Project
 동양미래대학교 3학년 2학기 백엔드 실무 프로젝트 실습 파일 백업
+<img width="1162" height="781" alt="image" src="https://github.com/user-attachments/assets/375bc0c3-cd79-4bc2-abc9-3ccb29434d2b" />
+
 
 
 ## 💾 데이터베이스 스키마 구조
